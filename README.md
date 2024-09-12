@@ -35,9 +35,6 @@ These results highlight the system's effectiveness in real-world applications su
 - Integrating more advanced machine learning algorithms for improved accuracy.
 - Adding mobility to the robotic arm for enhanced interaction capabilities.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## References
 
 1. Serrano-Ramírez, T., et al. (2021). *Artificial vision system for object classification in real time using Raspberry Pi and a Web camera*. Revista Tecnologías de La Información y Comunicaciones. https://doi.org/10.35429/JITC.2021.13.5.20.25
